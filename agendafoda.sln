@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lisinha-Matlugo", "Lisinha-Matlugo.csproj", "{3A31BD98-9D2A-4B25-8925-C24F6657D395}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda-foda", "agenda-foda.csproj", "{3A31BD98-9D2A-4B25-8925-C24F6657D395}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
